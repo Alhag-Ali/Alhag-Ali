@@ -4,6 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Backend+Devoloper;Data+Scientist" alt="Typing SVG" />
 </p>
 
+<br>
+
+  <p align="center">
+    <a href="https://github.com/Alhag-Ali"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Alhag-Ali"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=Mahmoud&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
+
+  <p align = "center">
+    <a href="https://drive.google.com/file/d/1x30RUiCAZEwf0Nug2cikBbQS_m_ZX1Lq/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://drive.google.com/file/d/1QJiRoCno_CNsN7YzONLqjthimJvM3wxy/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
+  
   #### `📤 Connect & Competitive Programming`
   <div align="center">
   <a href="https://www.linkedin.com/in/mahmoud-alhag-ali/" target="_blank">
