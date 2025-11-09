@@ -81,10 +81,10 @@
   <!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> -->
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alhag-Ali/Alhag-Ali/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alhag-Ali/Alhag-Ali/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alhag-Ali/Alhag-Ali/output/pacman-contribution-graph.svg">
-  </picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alhag-Ali/Alhag-Ali/output/pacman-contribution-graph-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alhag-Ali/Alhag-Ali/output/pacman-contribution-graph.svg">
+   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alhag-Ali/Alhag-Ali/output/pacman-contribution-graph.svg">
+ </picture>
 
 
 </div>
