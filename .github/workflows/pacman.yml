@@ -1,5 +1,4 @@
 name: Generate Pac-Man Contribution Graph
-
 on:
   schedule:
     - cron: '0 */12 * * *'
@@ -9,12 +8,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate Pac-Man Graph
-
     steps:
       - uses: actions/checkout@v3
-
       - uses: ashutosh00710/github-readme-pacman@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PACMAN_GRAPH_BRANCH: output
-          PACMAN_DARK_MODE: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_BRANCH: main
