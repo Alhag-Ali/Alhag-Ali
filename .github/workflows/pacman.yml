@@ -10,7 +10,7 @@ jobs:
     name: Generate Pac-Man Graph
     steps:
       - uses: actions/checkout@v3
-      - uses: ashutosh00710/github-readme-pacman@main
+      - uses: ashutosh00710/github-readme-pacman@v2.0.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_BRANCH: main
